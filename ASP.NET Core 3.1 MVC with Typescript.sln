@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29911.84
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Core 3.1 MVC with Typescript", "ASP.NET Core 3.1 MVC with Typescript\ASP.NET Core 3.1 MVC with Typescript.csproj", "{43EFC886-362E-4F82-BF4D-1102B8D3C78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET 8 MVC with Typescript", "ASP.NET Core 3.1 MVC with Typescript\ASP.NET 8 MVC with Typescript.csproj", "{43EFC886-362E-4F82-BF4D-1102B8D3C78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

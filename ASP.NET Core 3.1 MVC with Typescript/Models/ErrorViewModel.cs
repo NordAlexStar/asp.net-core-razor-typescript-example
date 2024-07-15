@@ -1,6 +1,6 @@
 using System;
 
-namespace ASP.NET_Core_3._1_MVC_with_Typescript.Models
+namespace ASP.NET_8._1_MVC_with_Typescript.Models
 {
     public class ErrorViewModel
     {

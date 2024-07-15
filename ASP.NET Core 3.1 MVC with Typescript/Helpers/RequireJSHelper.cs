@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace ASP.NET_Core_3._1_MVC_with_Typescript.Helpers
+namespace ASP.NET_8._1_MVC_with_Typescript.Helpers
 {
     public static class RequireJSHelper
     {

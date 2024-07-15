@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>ASP.NET_Core_3._1_MVC_with_Typescript</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ASP.NET_8._1_MVC_with_Typescript</RootNamespace>
     <TypeScriptToolsVersion>Latest</TypeScriptToolsVersion>
   </PropertyGroup>
 

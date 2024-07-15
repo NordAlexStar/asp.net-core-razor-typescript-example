@@ -354,3 +354,26 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.deps.json
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.dll
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.exe
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.pdb
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.runtimeconfig.dev.json
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.runtimeconfig.json
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.Views.dll
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.Views.pdb
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.deps.json
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.dll
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.exe
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.pdb
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.runtimeconfig.dev.json
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.runtimeconfig.json
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.Views.dll
+/ASP.NET Core 3.1 MVC with Typescript/bin/Debug/netcoreapp3.1/ASP.NET Core 3.1 MVC with Typescript.Views.pdb
+/ASP.NET Core 3.1 MVC with Typescript/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/ASP.NET Core 3.1 MVC with Typescript/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/ASP.NET Core 3.1 MVC with Typescript/obj/ASP.NET Core 3.1 MVC with Typescript.csproj.nuget.dgspec.json
+/ASP.NET Core 3.1 MVC with Typescript/obj/ASP.NET Core 3.1 MVC with Typescript.csproj.nuget.g.props
+/ASP.NET Core 3.1 MVC with Typescript/obj/ASP.NET Core 3.1 MVC with Typescript.csproj.nuget.g.targets
+/ASP.NET Core 3.1 MVC with Typescript/obj/project.assets.json
+/ASP.NET Core 3.1 MVC with Typescript/obj/project.nuget.cache

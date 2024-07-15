@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace ASP.NET_Core_3._1_MVC_with_Typescript
+namespace ASP.NET_8._1_MVC_with_Typescript
 {
     public class Startup
     {

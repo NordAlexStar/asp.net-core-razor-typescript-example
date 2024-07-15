@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ASP.NET_Core_3._1_MVC_with_Typescript.Models;
+using ASP.NET_8._1_MVC_with_Typescript.Models;
 
-namespace ASP.NET_Core_3._1_MVC_with_Typescript.Controllers
+namespace ASP.NET_8._1_MVC_with_Typescript.Controllers
 {
     public class HomeController : Controller
     {

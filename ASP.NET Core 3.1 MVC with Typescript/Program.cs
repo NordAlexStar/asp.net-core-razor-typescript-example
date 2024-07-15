@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace ASP.NET_Core_3._1_MVC_with_Typescript
+namespace ASP.NET_8._1_MVC_with_Typescript
 {
     public class Program
     {
